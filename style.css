@@ -1,0 +1,87 @@
+/* 1) select by ID */
+/* #from{
+    background-color: rgb(231, 223, 223);
+    color:red;
+    width: 20%;
+    padding: 1rem;
+    font-size: 20px;
+}
+#btn{
+    background-color: blue;
+    color: white;
+    width: 10%;
+    padding: 1rem;
+    font-size:20px;
+    border-radius: 15px;
+} */
+/* 1) Ends here */
+
+/* 2} DOM select by Tags */
+/* input{
+    color:red;
+    width: 20%;
+    padding: 1em;
+    background-color: rgb(214, 207, 207);
+    font-size: 20px;
+}
+#btn{
+    background-color: green;
+    color: white;
+    width: 23%;
+    padding: 1rem;
+    font-size:20px;
+    border-radius: 15px;
+} */
+/* 2} DOM select by Tags */ 
+
+/* 3} DOM select from Tags */
+/* #mydiv{
+    
+    color:red;
+    width: 20%;
+    padding: 1em;
+    background-color: rgb(214, 207, 207);
+    font-size: 20px;
+} */
+/* #btn{
+    background-color: green;
+    color: white;
+    width: 23%;
+    padding: 1rem;
+    font-size:20px;
+    border-radius: 15px;
+}  */
+/* 3} DOM select from Tags */
+
+ /* 4) Adding css to DOM */
+
+input{
+    width: 50%;
+    height: 40px;
+    font-size: 18px;
+    color: red;
+}
+h2{
+    color: red;
+}
+p{
+    color: blue;
+    font-size: 18px;
+}
+/* #btn{
+    width: 50%;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+    background-color: blue;
+} */
+myclass{
+    width: 50%;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+    background-color: blue;
+}
+
+  /* 4) Adding css to DOM
+
